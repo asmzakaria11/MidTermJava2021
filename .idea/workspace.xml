@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efdfa656-2e1a-4af8-ba1e-0be8084ab93b" name="Default Changelist" comment="git push" />
+    <list default="true" id="efdfa656-2e1a-4af8-ba1e-0be8084ab93b" name="Default Changelist" comment="second push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617912883138</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second push">
+      <created>1617913509786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617913509786</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git push" />
-    <option name="LAST_COMMIT_MESSAGE" value="git push" />
+    <MESSAGE value="second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="second push" />
   </component>
 </project>
