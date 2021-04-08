@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efdfa656-2e1a-4af8-ba1e-0be8084ab93b" name="Default Changelist" comment="second push" />
+    <list default="true" id="efdfa656-2e1a-4af8-ba1e-0be8084ab93b" name="Default Changelist" comment="second push">
+      <change beforePath="$PROJECT_DIR$/JavaExam/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/JavaExam/src/definition/core-java-conceptual-questions" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaExam" />
   </component>
   <component name="ProjectId" id="1qds4LIgr6hJKtZ6I5zKVZLrlfS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617913743483</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second push">
+      <created>1617914054925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617914054925</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
